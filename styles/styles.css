@@ -170,4 +170,32 @@ main{
 
 /* baba-4 */
 
+.baba-4{
+    padding: 50px 140px 135px 160px;
+    border: none;
+    align-items: center;
+
+}
+.babar-chele{
+    text-align: center;
+    background-color: #fff;
+    padding: 71px 150px 71px 150px;
+}
+
+.p-4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.h1-4{
+    padding-top: 71px;
+}
+.pic-baba-4{
+    height: 360;
+    width: 840;
+    border-radius: 48px;
+    padding-top: 20px;
+    
+}
+
+
 
