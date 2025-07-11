@@ -206,17 +206,32 @@ main{
 }
 .babar-chele-5{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
-.form-5{
-    padding-top: 71px;
-    padding-bottom: 71px;
+.form-5 input {
+    padding: 20px 271px 20px 32px;
+    border: none;
+    margin-bottom: 20px;
+    margin-top: 8px;
+
+
+}
+.form-5 textarea {
+    padding: 20px 245px 50px 32px;
+    border: none;
+}
+.form-5 label{
+    font-weight: bold;
+   
+}
     
-    width: 497px;
-    height: 497px;
-}
+
 
 .h1-5{
     font-size: 97px;
     font-weight: bold;
 }
+
+
