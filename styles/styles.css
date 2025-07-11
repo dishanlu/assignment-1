@@ -49,6 +49,10 @@ nav h3{
     margin-bottom: 40px;
 }
 
+main{
+    background-color: #f7f4f9;
+}
+
 /* Baba -1 style  */
 .baba-1{
     display: flex;
@@ -109,8 +113,61 @@ nav h3{
     padding-top: 40px;
 }
 
+/* baba-3 */
+
+.baba-3{
+    padding: 157px 40px 157px 60px;
+    border: none;
+    align-items: center;
+
+}
+
+.baba-3 h2{
+    text-align: center;
+}
+
+.users-say{
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
 
 
+}
+.h3-all{
+    padding-bottom: 8px;
+}
 
+.same{    
+    flex-direction: column;
+    padding-top: 50px;
+    padding: 40px 40px;
+    border: none;
+    background-color:#FFFFFF;
+    border-radius: 5px;
+
+}
+.icon{
+    display: flex;
+    padding-bottom: 24px;
+}
+
+.pic-name{
+    display: flex;
+    gap: 6px;
+}
+.dark-1{
+    color: #757575;
+}
+.dark-2{
+    color: #B3B3B3;
+}
+.user-img{
+    size: 40px 40px;
+}
+.user-say{
+    padding-bottom: 24px;
+}
+
+/* baba-4 */
 
 
