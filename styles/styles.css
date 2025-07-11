@@ -5,6 +5,7 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+/* similar button style */
 .btn-primary{
     background-color: #4E47FF;
     color: #FFFF;
@@ -17,6 +18,8 @@ body{
     background-image: url(../Assets/Hero-bg.png);
     height: 70vh;
     width: 100%;
+    padding: 50px 150px 200px 0px;
+
 }
 
 /* header nav */
@@ -27,7 +30,7 @@ nav{
 
 }
 nav h3{
-    font-size: 34px;
+    font-size: 40px;
     color: #4E47FF;
     font-weight: bold;
 }
@@ -36,7 +39,7 @@ nav h3{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 158px 267px 0px 267px ;
+    padding: 158px 267px  267px ;
 
 }
 .banner-content h3{
@@ -46,6 +49,7 @@ nav h3{
     margin-bottom: 40px;
 }
 
+/* Baba -1 style  */
 .baba-1{
     display: flex;
     justify-content: space-between;
@@ -58,6 +62,8 @@ nav h3{
     border-radius: 48px;
 }
 
+/* similar text*/
+
 .h2-all{
     padding-bottom: 23px;
     font-size:42px;
@@ -66,10 +72,42 @@ nav h3{
 .p-all{
     padding-bottom: 23px;
     font-size:24;
-    color: #252432;
+    color: #909098 ;
 }
 
+/* baba-2 */
+.baba-2{
+    padding: 157px 140px 157px 160px;
+    align-items: center;
 
+}
+.baba-2-in{
+    padding: 50px 80px 50px 80px;
+    align-items: center;
+    background-color:#e4e4ff ;
+    border-radius: 20px;
+}
+
+.baba-2 h2{
+    text-align: center;
+    
+}
+.baba-2 h1{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.baba-2 p{
+    font-size: 20px;
+    color: #909098 ;
+}
+
+.baba-2-users{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
 
 
 
