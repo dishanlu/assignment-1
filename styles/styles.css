@@ -13,6 +13,11 @@ body{
     border-radius: 10px;
     border: none;
 }
+.btn-primary:hover{
+    cursor: pointer;
+    color: rgb(5, 0, 0);
+    background-color: #00f808;
+}
 
 .banner{
     background-image: url(../Assets/Hero-bg.png);
@@ -107,9 +112,10 @@ main{
 }
 
 .baba-2-users{
-    align-items: center;
+    
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    
     padding-top: 40px;
 }
 
@@ -210,6 +216,19 @@ main{
     align-items: center;
     gap: 20px;
 }
+.btn-primary-5{
+    background-color: #4E47FF;
+    color: #FFFF;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    padding: 19px 200px 19px 200px;
+}
+.btn-primary-5:hover{
+    cursor: pointer;
+    color: rgb(5, 0, 0);
+    background-color: #00f808;
+}
 .form-5 input {
     padding: 20px 271px 20px 32px;
     border: none;
@@ -219,7 +238,7 @@ main{
 
 }
 .form-5 textarea {
-    padding: 20px 245px 50px 32px;
+    padding: 20px 270px 50px 32px;
     border: none;
 }
 .form-5 label{
@@ -234,4 +253,32 @@ main{
     font-weight: bold;
 }
 
+/* baba-6 */
+.baba-6{
+    padding: 50px 140px 135px 160px;
+    border: none;
+    text-align: center;
+
+}
+
+
+
+.abc{
+    font-size: 100px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+.abcd{
+    padding-top: 8px;
+    color: #8987A1;
+}
+.ul-6{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: #8987A1;
+    align-items: center;
+    padding-top: 20px;
+}
 
