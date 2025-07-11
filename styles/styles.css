@@ -197,5 +197,26 @@ main{
     
 }
 
+/* baba-5 */
+.baba-5{
+    padding: 50px 140px 135px 160px;
+    border: none;
+    align-items: center;
 
+}
+.babar-chele-5{
+    display: flex;
+    justify-content: space-between;
+}
+.form-5{
+    padding-top: 71px;
+    padding-bottom: 71px;
+    
+    width: 497px;
+    height: 497px;
+}
 
+.h1-5{
+    font-size: 97px;
+    font-weight: bold;
+}
